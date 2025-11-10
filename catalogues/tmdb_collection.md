@@ -1,40 +1,11 @@
-🎬 Marre de chercher ?
+🎬 Fatigué de chercher les films d'une saga dispersés dans votre catalogue ?
 ---
-https://61ab9c85a149-tmdb-collections.baby-beamup.club/configure
-
-https://tmdb-collections.stremio.ru/configure
+✅ TMDB regroupe automatiquement toutes les suites en collections organisées.
 ---
-Fatigué de parcourir toute votre bibliothèque pour trouver un film d'une saga avec 5 ou 6 suites ?
+⚡ Plus besoin de configurer quoi que ce soit !
 ---
-🎥 Exemple : Indiana Jones
-
-5 films depuis 1981, dispersés dans votre catalogue...
+📚 Retrouvez Marvel, Star Wars, Harry Potter et bien d'autres en un seul endroit.
 ---
-✅ La Solution : Collections TMDB
-
-Automatiquement regroupées :
-
-Tous les films d'une saga au même endroit
-
-Plus de recherche film par film
-
-Tri chronologique
-
-Poster de collection
+🎯 Accédez-y via "Bibliothèque → Collections" pour une expérience simplifiée !
 ---
-📚 Exemples :
 
-Marvel Cinematic Universe
-
-James Bond
-
-Star Wars
-
-Harry Potter
-
-Fast & Furious
----
-⚡ Comment ?
-
-Rien à configurer ! Une fois TMDB installé, allez dans :
-Bibliothèque → Collections
