@@ -13,9 +13,7 @@ Elfhosted : https://tmdb.elfhosted.com/
 
 Creepso : https://tmdb.creepso.com/
 
-🔄 Alternatives :
-
-Stremio.ru : https://tmdb.stremio.ru/ (pas la dernière version)
+Stremio.ru : https://tmdb.stremio.ru/ 
 
 🌐 Étape 2 : Configuration de la langue
 
