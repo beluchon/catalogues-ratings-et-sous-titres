@@ -4,7 +4,7 @@
 ---
 ⚡ Plus besoin de configurer quoi que ce soit !
 ---
-📚 Retrouvez Marvel, Star Wars, Harry Potter et bien d'autres en un seul endroit.mmmmmmmmmmmmmm
+📚 Retrouvez Marvel, Star Wars, Harry Potter et bien d'autres en un seul endroit.
 ---
 🎯 Accédez-y via "Bibliothèque → Collections" pour une expérience simplifiée !
 ---
