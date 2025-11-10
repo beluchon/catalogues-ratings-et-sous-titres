@@ -35,6 +35,7 @@ Cliquez sur AIO Metadata (à droite)
 
 Sélectionnez Importer le fichier JSON
 
+---
 🔑 Étape 2 : Obtenir les Clés API
 🎬 TMDB (Films & Séries)
 Inscription :
@@ -55,6 +56,7 @@ Copiez votre clé API
 
 Collez-la dans le champ tmdb_api_key
 
+---
 📺 TVDB (Séries TV)
 Inscription :
 
@@ -72,11 +74,13 @@ Copiez votre clé API
 
 Collez-la dans tvdb_api_key
 
+---
 🎯 RPDB
 Utilisez directement : t0-free-rpdb
 
 Aucune inscription requise
 
+---
 📊 MDBList
 Obtenir la clé API :
 
