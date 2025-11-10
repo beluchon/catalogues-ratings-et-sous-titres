@@ -1,7 +1,7 @@
 🔵 Installer TMDB Addon
 📍 Étape 1 : Accéder à TMDB
 
---
+---
 
 Plusieurs serveurs disponibles :
 
@@ -18,11 +18,17 @@ Creepso : https://tmdb.creepso.com/
 Stremio.ru : https://tmdb.stremio.ru/ (pas la dernière version)
 
 🌐 Étape 2 : Configuration de la langue
+
+---
+
 Dans l'onglet Home à gauche
 
 Sélectionnez la langue French (France)
 
 ⚙️ Étape 3 : Paramètres généraux
+
+---
+
 Allez dans Others
 
 ✅ Cochez Provide IMDB metadata
@@ -32,6 +38,9 @@ Allez dans Others
 ⚡ Cochez les autres options à votre convenance
 
 🔗 Étape 4 : Intégrations
+
+---
+
 Dans l'onglet Integrations
 
 Configurez principalement Streaming Catalogs
@@ -39,6 +48,9 @@ Configurez principalement Streaming Catalogs
 📊 Optionnel : Rating Poster Database (pour les notes sur les affiches - attention, les affiches seront en anglais)
 
 📚 Étape 5 : Organisation des catalogues
+
+---
+
 Allez dans l'onglet Catalogs
 
 Sélectionnez et déplacez les catalogues selon vos préférences
