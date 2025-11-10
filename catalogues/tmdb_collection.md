@@ -44,6 +44,6 @@ Connectez-vous avec votre compte Stremio
 ---
 Cliquez sur Load Addons
 ---
-📥 Glissez l'addon TMDB tout en haut de la liste (au-dessus de Cinemata)
+📥 Glissez l'addon a l'emplacement ou vous le voulez (au-dessus de Cinemata)
 
 🔄 Cliquez sur Sync to Stremio
