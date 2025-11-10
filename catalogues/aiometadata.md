@@ -3,14 +3,12 @@
 AIO Metadata est un ensemble d'add-ons qui enrichissent Stremio en ajoutant :
 
 📸 Images de haute qualité
-
 📝 Résumés détaillés
-
 ⭐ Notes et évaluations
-
 🏷️ Métadonnées complètes
-
 🔗 Liens des Add-ons
+
+---
 Choisissez un seul lien, ils sont tous identiques
 
 🌐 Options disponibles :
@@ -23,6 +21,7 @@ https://aiometadatafortheweak.nhyira.dev
 
 https://aiometadata.viren070.me
 
+---
 📥 Étape 1 : Télécharger le JSON
 Téléchargez le fichier de configuration :
 
