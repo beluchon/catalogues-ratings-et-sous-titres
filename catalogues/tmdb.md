@@ -3,7 +3,7 @@
 
 ---
 
-Plusieurs serveurs disponibles :
+Plusieurs instances disponible disponibles :
 
 🌐 Serveurs recommandés :
 
