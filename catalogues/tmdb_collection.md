@@ -4,7 +4,7 @@
 ---
 ⚡ Plus besoin de configurer quoi que ce soit !
 ---
-📚 Retrouvez Marvel, Star Wars, Harry Potter et bien d'autres en un seul endroit.
+📚 Retrouvez Marvel, Star Wars, Harry Potter et bien d'autres en un seul endroit.mmmmmmmmmmmmmm
 ---
 🎯 Accédez-y via "Bibliothèque → Collections" pour une expérience simplifiée !
 ---
@@ -15,7 +15,7 @@ https://61ab9c85a149-tmdb-collections.baby-beamup.club/configure
 https://tmdb-collections.stremio.ru/configure
 
 ---
-Marvel, DC & Star Wars Universe
+Marvel, DC & Star Wars Universemmmmmmmmmm
 
 https://addon-marvel.onrender.com/configure
 
