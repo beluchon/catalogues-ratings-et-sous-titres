@@ -1,8 +1,19 @@
-Tutoriel Configuration Stremio AIO Metadata 🚀
+🚀 Tutoriel Configuration Stremio AIO Metadata
 📋 C'est quoi ?
-Des add-ons qui ajoutent des images, résumés et notes à tes films/séries dans Stremio.
+AIO Metadata est un ensemble d'add-ons qui enrichissent Stremio en ajoutant :
 
-🔗 Liens des Add-ons: en choisir une elle sont toutes identiques
+📸 Images de haute qualité
+
+📝 Résumés détaillés
+
+⭐ Notes et évaluations
+
+🏷️ Métadonnées complètes
+
+🔗 Liens des Add-ons
+Choisissez un seul lien, ils sont tous identiques
+
+🌐 Options disponibles :
 
 https://aiometadata.stremio.ru
 
@@ -13,32 +24,70 @@ https://aiometadatafortheweak.nhyira.dev
 https://aiometadata.viren070.me
 
 📥 Étape 1 : Télécharger le JSON
-Télécharge ce fichier :
+Téléchargez le fichier de configuration :
 
-https://github.com/beluchon/aio-metadata/blob/main/aiometadata.json
-va dans Configuration à droite de AIO Metadata et import
+👉 https://github.com/beluchon/aio-metadata/blob/main/aiometadata.json
+
+Importation dans Stremio :
+
+Allez dans Configuration
+
+Cliquez sur AIO Metadata (à droite)
+
+Sélectionnez Importer le fichier JSON
 
 🔑 Étape 2 : Obtenir les Clés API
-🎬 TMDB (Films/Séries)
-Inscris-toi sur : 
-https://www.themoviedb.org/settings/api
+🎬 TMDB (Films & Séries)
+Inscription :
 
-Demande une clé API (gratuite)
+📧 https://www.themoviedb.org/settings/api
 
-Copie-la dans le champ tmdb_api_key
+Demande de clé API :
+
+Créez un compte développeur (gratuit)
+
+Remplissez le formulaire de demande
+
+Choisissez "Educational" comme type d'usage
+
+Configuration :
+
+Copiez votre clé API
+
+Collez-la dans le champ tmdb_api_key
 
 📺 TVDB (Séries TV)
-Inscris-toi sur : 
-https://thetvdb.com
+Inscription :
 
-Va dans "Account" → "API Keys"
+📧 https://thetvdb.com
 
-Crée une nouvelle clé
+Génération de clé API :
 
-Copie-la dans tvdb_api_key
+Allez dans "Account" → "API Keys"
+
+Créez une nouvelle clé API
+
+Configuration :
+
+Copiez votre clé API
+
+Collez-la dans tvdb_api_key
 
 🎯 RPDB
-Utilise directement : t0-free-rpdb
+Utilisez directement : t0-free-rpdb
 
-MDBList
-https://mdblist.com/preferences/#api_key_uid
+Aucune inscription requise
+
+📊 MDBList
+Obtenir la clé API :
+
+🔗 https://mdblist.com/preferences/#api_key_uid
+
+Configuration :
+
+Connectez-vous à votre compte
+
+Générez votre clé API unique
+
+Ajoutez-la dans le champ correspondant
+
