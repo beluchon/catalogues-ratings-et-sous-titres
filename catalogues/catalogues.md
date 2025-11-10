@@ -1,8 +1,8 @@
 
-[tmdb](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/tmdb.md)
+🎬 [Catalogue TMDB - Films & Séries](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/tmdb.md)
 
 ---
-[aiometadata](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/aiometadata.md)
+🤖 [Catalogue AIO Metadata - Métadonnées complètes](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/aiometadata.md)
 
 ---
-[tmdbcollection](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/tmdb_collection.md)
+📚 [Catalogue TMDB Collections - Collections de films](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/tmdb_collection.md)
