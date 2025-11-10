@@ -1,7 +1,14 @@
-Bonjour dans se tuto je vais vous présente des addons pour les catalogues,ratings,sous titres
+# 👋 Bonjour !
 
-[Catalogues](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues.md)
+Dans ce tutoriel, je vais vous présenter des addons pour :
 
-[Ratings](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/ratings.md)
+---
 
-[sous titres](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/sous%20titres.md)
+## 📚 Catalogues
+[Accéder au guide des catalogues](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues.md)
+
+## ⭐ Ratings  
+[Accéder au guide des ratings](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/ratings.md)
+
+## 🎞️ Sous-titres
+[Accéder au guide des sous-titres](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/sous%20titres.md)
