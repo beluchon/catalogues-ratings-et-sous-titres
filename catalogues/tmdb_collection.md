@@ -9,7 +9,7 @@
 🎯 Accédez-y via "Bibliothèque → Collections" pour une expérience simplifiée !
 ---
 TMDB COLLECTION
-
+---
 https://61ab9c85a149-tmdb-collections.baby-beamup.club/configure
 
 https://tmdb-collections.stremio.ru/configure
