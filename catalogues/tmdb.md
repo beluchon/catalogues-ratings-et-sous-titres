@@ -1,18 +1,21 @@
 🔵 Installer TMDB Addon
 📍 Étape 1 : Accéder à TMDB
+
+---
+
 Plusieurs serveurs disponibles :
 
 🌐 Serveurs recommandés :
 
-OG Beamup
+OG Beamup : https://94c8cb9f702d-tmdb-addon.baby-beamup.club/
 
-Elfhosted
+Elfhosted : https://tmdb.elfhosted.com/
 
-Creepso
+Creepso : https://tmdb.creepso.com/
 
 🔄 Alternatives :
 
-Stremio.ru (pas la dernière version)
+Stremio.ru : https://tmdb.stremio.ru/ (pas la dernière version)
 
 🌐 Étape 2 : Configuration de la langue
 Dans l'onglet Home à gauche
