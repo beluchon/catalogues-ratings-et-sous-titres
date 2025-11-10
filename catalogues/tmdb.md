@@ -1,7 +1,7 @@
 🔵 Installer TMDB Addon
 📍 Étape 1 : Accéder à TMDB
 
----
+---------
 
 Plusieurs serveurs disponibles :
 
