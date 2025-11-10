@@ -27,7 +27,7 @@ Téléchargez le fichier de configuration :
 
 👉 https://github.com/beluchon/aio-metadata/blob/main/aiometadata.json
 
-Importation dans Stremio :
+Importation dans aiometadata
 
 Allez dans Configuration
 
