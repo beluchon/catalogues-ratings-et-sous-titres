@@ -17,3 +17,6 @@ Enfin, 🤖 aiometadata entre en jeu comme le bras armé technique. C'est une bi
 
 ---
 📚 [Catalogue TMDB Collections - Collections de films](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/tmdb_collection.md)
+
+---
+🎭 [Catalogue AIOList - Collections organisées](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/aiolist.md)
