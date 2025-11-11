@@ -7,7 +7,7 @@ Plusieurs instances disponible disponibles :
 
 🌐 Serveurs recommandés :
 
-OG Beamup : https://94c8cb9f702d-tmdb-addon.baby-beamup.club/
+OG Beamup : https://94c8cb9f702d-tmdb-addon.baby-beamup.club/  en peux lent
 
 Elfhosted : https://tmdb.elfhosted.com/
 
