@@ -1,3 +1,5 @@
+🔐 cette est déjà intégrer dans aiometdata
+
 🎬 Présentation d'AIOList - Votre Centre de Médias Universel ! 🚀
 
 ---
