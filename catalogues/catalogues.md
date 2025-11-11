@@ -13,7 +13,7 @@ Il permet de regrouper des films qui font partie d'une même saga ou univers (co
 ---
 Enfin, 🤖 aiometadata entre en jeu comme le bras armé technique. --- 🐐🐐
 
-C'est une bibliothèque de programmation asynchrone ⚡ (d'où le "aio") qui va chercher et récupérer automatiquement 🔄 toutes ces métadonnées riches depuis l'API de TMDB pour les intégrer directement dans votre serveur média.
+C'est une bibliothèque qui va chercher et récupérer automatiquement 🔄 toutes ces métadonnées riches depuis l'API de TMDB et tvdb,imdb pour les intégrer directement dans votre catalogue.
 
 ---
 🎬 [Catalogue TMDB - Films & Séries](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/tmdb.md)
