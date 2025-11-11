@@ -22,7 +22,7 @@ https://61ab9c85a149-tmdb-collections.baby-beamup.club/configure
 https://tmdb-collections.stremio.ru/configure
 
 ---
-Marvel, DC & Star Wars Universe avec ordre des sagas
+Marvel, DC & Star Wars Universe avec ordre technique des sagas
 
 https://addon-marvel.onrender.com/configure
 
