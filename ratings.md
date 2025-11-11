@@ -12,6 +12,11 @@ Cet addon affiche automatiquement les **notes IMDb** directement dans l’interf
 
 ![rating](https://github.com/user-attachments/assets/2e767f0b-8645-4c28-8a9d-dadb1079595b)
 
+🔗 https://72059fbbd1e5-stremio-addon-ratings.baby-beamup.club/configure/#/home
+
+![premium_rating](https://github.com/user-attachments/assets/a9752455-7be7-433f-bc05-dd8e8693f7f4)
+
+
 ---
 *🛠️ Instructions : *
 
