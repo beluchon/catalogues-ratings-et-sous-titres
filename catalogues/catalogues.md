@@ -3,7 +3,7 @@ Au cœur de ce système ❤️, on retrouve trois piliers essentiels pour la ges
 ---
 🗃️ TMDB (The Movie Database) est la source incontournable. Cette gigantesque base de données communautaire 🌐 fournit toutes les informations sur les films et les séries : synopsis, genres, acteurs, affiches, bandes-annonces et bien plus encore.
 
----
+
 📚 TMDB Collection est un concept spécifique à TMDB. Il permet de regrouper des films qui font partie d'une même saga ou univers (comme "James Bond", "Harry Potter" ou "Marvel Cinematic Universe" 🎬), offrant ainsi une vue d'ensemble cohérente.
 
 ---
