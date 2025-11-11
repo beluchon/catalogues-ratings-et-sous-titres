@@ -32,6 +32,6 @@ Connectez-vous avec votre compte Stremio
 ---
 Cliquez sur Load Addons
 ---
-📥 Glissez l'addon aiometadata tout en haut de la liste (au-dessus de Cinemata)
+📥 Glissez l'addon tout en haut de la liste (au-dessus de Cinemata et de tmdb ou aiometadata)
 
 🔄 Cliquez sur Sync to Stremio
