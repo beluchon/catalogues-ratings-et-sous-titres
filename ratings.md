@@ -18,13 +18,20 @@ Ces addon affiche automatiquement les **notes IMDb et autres** directement dans 
 
 
 ---
-*🛠️ Instructions : *
-
 ---
-**1.** Cliquez sur le lien ci-dessus.
+🟠 Réarranger les Addons
+🔄 Étape 1 : Gestionnaire d'addons
+---
+Rendez-vous sur : https://addon-manager.stremiofr.com/
 
-**2.** Cliquez sur **Install Default Version** ou **Customisez** votre installation.
+🔐 Étape 2 : Connexion
+---
+Connectez-vous avec votre compte Stremio
 
-**3.** L'addon s’installera automatiquement dans votre Stremio.
+📥 Étape 3 : Réorganisation
+---
+Cliquez sur Load Addons
+---
+📥 Glissez l'addon aiometadata tout en haut de la liste (au-dessus de Cinemata)
 
-**4.** Allez sur le Manager d'Addons pour mettre cet addon au dessus des autres https://addon-manager.stremiofr.com/ (pour avoir les notes en premier)
+🔄 Cliquez sur Sync to Stremio
