@@ -1,7 +1,7 @@
 Cet addon affiche automatiquement les **notes IMDb** directement dans l’interface de Stremio. Fini les allers-retours vers **IMDb **🎞️
 
 ---
-👉 **Installez-le ici :**
+👉 **choissisez un addon :**
 
 ---
 🔗 https://stremio-ratings-v3-production.up.railway.app/configure
