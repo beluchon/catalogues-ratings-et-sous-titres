@@ -26,3 +26,7 @@ C'est une bibliothèque qui va chercher et récupérer automatiquement 🔄 tout
 
 ---
 🎭 [Catalogue AIOList - Collections organisées](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/aiolist.md)
+
+---
+🎭 [Catalogue stremthru list - Collections organisées](https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/streamhru%20list.md)
+
