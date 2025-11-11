@@ -1,4 +1,4 @@
-Cet addon affiche automatiquement les **notes IMDb** directement dans l’interface de Stremio. Fini les allers-retours vers **IMDb **🎞️
+Ces addon affiche automatiquement les **notes IMDb et autres** directement dans l’interface de Stremio. Fini les allers-retours vers **IMDb **🎞️
 
 ---
 👉 **choissisez un addon :**
