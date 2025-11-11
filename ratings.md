@@ -13,6 +13,12 @@ Cet addon affiche automatiquement les **notes IMDb** directement dans l’interf
 
 
 
+
+
+
+
+
+
 ---
 *🛠️ Instructions : *
 
