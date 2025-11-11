@@ -1,4 +1,4 @@
-🔐 cette est déjà intégrer dans aiometdata
+🔐 cette est déjà intégrer dans aiometadata
 
 ---
 ---
