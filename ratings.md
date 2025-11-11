@@ -10,11 +10,7 @@ Cet addon affiche automatiquement les **notes IMDb** directement dans l’interf
 
 🔗 https://rating-aggregator.elfhosted.com/configure/
 
-
-
 ![rating](https://github.com/user-attachments/assets/2e767f0b-8645-4c28-8a9d-dadb1079595b)
-
-
 
 ---
 *🛠️ Instructions : *
