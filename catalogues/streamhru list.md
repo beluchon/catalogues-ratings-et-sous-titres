@@ -1,3 +1,8 @@
+🔐 cette est déjà intégrer dans aiometadata
+
+---
+---
+
 🧧 pareil que aiolist mais plus de site supporter
 
 https://stremthrufortheweak.nhyira.dev/
