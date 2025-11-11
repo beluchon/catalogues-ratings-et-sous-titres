@@ -15,3 +15,9 @@ AIOList est la solution tout-en-un 🌟 pour gérer toutes vos listes de médias
 ⚡ Flexibilité Totale : Choix entre recherche scindée ou fusionnée 🔄
 
 🐉 Spécialisation Anime : Intégration dédiée avec Kitsu pour les otaku !
+
+---
+---
+
+https://aiolists.stremio.ru
+https://aiolistsfortheweebs.midnightignite.me
