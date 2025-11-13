@@ -1,4 +1,4 @@
-🔐 cette est déjà intégrer dans aiometadata
+🔐 cette addon est déjà intégrer dans aiometadata
 
 ---
 ---
