@@ -19,7 +19,7 @@ TMDB COLLECTION pour toutes les sagas
 
 https://61ab9c85a149-tmdb-collections.baby-beamup.club/configure
 
-https://tmdb-collections.stremio.ru/configure
+https://tmdb-collections.stremio.ru/configure beaucoup plus rapide
 
 ---
 Marvel, DC & Star Wars Universe avec ordre technique des sagas
