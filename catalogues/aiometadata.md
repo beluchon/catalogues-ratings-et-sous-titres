@@ -58,7 +58,7 @@ Collez-la dans le champ tmdb_api_key
 📺 TVDB (Séries TV)
 Inscription :
 
-📧 https://thetvdb.com
+📧 https://www.thetvdb.com/api-information
 
 Génération de clé API :
 
