@@ -48,8 +48,6 @@ Créez un compte développeur (gratuit)
 
 Remplissez le formulaire de demande
 
-Choisissez "Educational" comme type d'usage
-
 Configuration :
 
 Copiez votre clé API
