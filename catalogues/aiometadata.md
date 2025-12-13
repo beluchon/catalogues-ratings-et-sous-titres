@@ -25,7 +25,7 @@ https://aiometadata.viren070.me
 📥 Étape 1 : Télécharger le JSON
 Téléchargez le fichier de configuration :
 
-👉 https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/aiometadata-config-2025-11-26%20(1).json
+👉 https://github.com/beluchon/catalogues-ratings-et-sous-titres/blob/main/catalogues/aiometadata-config-2025-12-13%20(2).json
 
 Importation dans aiometadata
 
