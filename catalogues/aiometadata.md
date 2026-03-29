@@ -15,6 +15,8 @@ Choisissez un seul lien, ils sont tous identiques
 
 https://aiometadata.stremio.ru
 
+https://aiometadata.creepso.com
+
 https://aiometadatafortheweebs.midnightignite.me
 
 https://aiometadatafortheweak.nhyira.dev
